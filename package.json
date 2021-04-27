@@ -6,5 +6,8 @@
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "express-handlebars": "^5.3.0"
+  },
+  "scripts": {
+    "start": "node 20-01.js"
   }
 }
